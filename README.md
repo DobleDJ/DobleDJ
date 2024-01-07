@@ -1,4 +1,4 @@
-## Getting Started 👦🏾🚀
+## Getting Started
 ### Hi there 👋
 - 🌱 I’m currently learning ... Python and React
 - 🌱 I’m currently learning with help from [GitHub Docs](https://docs.github.com/en)
