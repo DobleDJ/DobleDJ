@@ -6,8 +6,6 @@
 
 😄 Pronouns: ... Doble
 
-🌍 Location: Cuba cu
-
 🎓 Education: University of Informatics Sciences (UCI), Software Engineering
 
 💻 Profession: Front-end developer
